@@ -24,7 +24,9 @@ pipeline {
         }
 		stage('Test') {
             steps {
+				withMaven(maven : 'my-maven'){
                 sh 'mvn test'
+				}
             }
             post {
                 always {
@@ -34,3 +36,9 @@ pipeline {
         }
     }
 }
+
+
+
+
+
+
