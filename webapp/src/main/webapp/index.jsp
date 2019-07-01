@@ -1,3 +1,3 @@
-Hello, Welcome to Valaxy Technologies !!
+Hello, This is CICD
 
 Deployment is going to happen through ansible
