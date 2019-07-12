@@ -4,14 +4,14 @@ CI/CD Pipeline using
 
 <h1>
   
-Git - repository management
-Jenkins - Continuous integration 
-SonarQube - Continuous Inspection
-Nexus - Artifactory Management
-Ansible - for Deployment
-Docker Hub - Image repository management
-Junit - Unit testing
-Tomcat Web server - End enviorment
+Git - repository management /n
+Jenkins - Continuous integration /n
+SonarQube - Continuous Inspection /n
+Nexus - Artifactory Management /n
+Ansible - for Deployment /n
+Docker Hub - Image repository management /n
+Junit - Unit testing /n
+Tomcat Web server - End enviorment /n
 
 </h1>
 
