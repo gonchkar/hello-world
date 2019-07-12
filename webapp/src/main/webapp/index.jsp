@@ -1,3 +1,16 @@
-Hello, This is CICD
+<h1> My first Page</h1>
 
-Deployment is going to happen through ansible
+CI/CD Pipeline using 
+
+<h1>
+  
+Git - repository management
+Jenkins - Continuous integration 
+SonarQube - Continuous Inspection
+Nexus - Artifactory Management
+Ansible - for Deployment
+Docker Hub - Image repository management
+Junit - Unit testing
+Tomcat Web server - End enviorment
+
+</h1>
