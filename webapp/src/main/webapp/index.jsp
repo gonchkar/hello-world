@@ -3,7 +3,7 @@
   <title> home </title>
 <body>
 
-22nd October Session
+22nd October Session --- Added some more content
 
 <div style="position:relative;">
   <div style="opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF"></div>
