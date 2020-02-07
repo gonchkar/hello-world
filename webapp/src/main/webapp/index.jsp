@@ -3,8 +3,10 @@
   <title> home </title>
 <body>
 
-22nd October Session  ---
-#comment
+
+22nd October Session --- Added some more content
+##### commeneted
+
 <div style="position:relative;">
   <div style="opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF"></div>
   <div style="opacity:0.3;position:absolute;left:120px;top:20px;width:100px;height:170px;background-color:#73AD21"></div>
